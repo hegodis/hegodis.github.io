@@ -1,2 +1,2 @@
 # hegodis.github.io
-3paginas escritas en html, css y jaascript para mostrar un pequeño istema de votacion
+Desarrollo web, análisis SEO, desarrollo de sitios web, landingpage con WordPress y Tiendas online con PrestaShop, Shopify y Woocommerce mantenimiento. Contacto WhatsApp +584264838646
